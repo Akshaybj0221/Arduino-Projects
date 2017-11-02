@@ -1,0 +1,8 @@
+http://www.i2cdevlib.com/tools/analyzer/1
+
+http://www.i2cdevlib.com/tools/analyzer/4
+
+
+http://forum.arduino.cc/index.php?topic=118937.0
+
+http://forum.arduino.cc/index.php?topic=158911.0
